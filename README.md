@@ -13,4 +13,5 @@ Machine Learning algorithms like Naive Bayes, Decision Tree, Random Forest,
 XgBoost, Support Vector Machine (SVM ), Logistic regression , K-Nearest
 Neighbors (KNN) and Neural Network and apply these algorithms on the dataset to
 predict the disease. Then we will compare the result of these algorithms according to
-classi
+classification metrics so that best out of these can be found out. The Pima indian
+dataset has 8 features and one output column which is discrete in nature (0/1).
