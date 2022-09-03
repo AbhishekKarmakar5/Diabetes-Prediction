@@ -7,3 +7,10 @@ age groups. Predicting this disease at an early stage can help a person to take 
 necessary precautions and change his/her lifestyle accordingly to either prevent the
 occurrence of this disease or control the disease.
 
+We will be taking the Pima Indians diabetes dataset and pre-process it with an
+objective to employ machine learning for prediction of diabetes. We will use 8
+Machine Learning algorithms like Naive Bayes, Decision Tree, Random Forest,
+XgBoost, Support Vector Machine (SVM ), Logistic regression , K-Nearest
+Neighbors (KNN) and Neural Network and apply these algorithms on the dataset to
+predict the disease. Then we will compare the result of these algorithms according to
+classi
