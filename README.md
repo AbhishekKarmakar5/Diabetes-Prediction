@@ -15,3 +15,7 @@ Neighbors (KNN) and Neural Network and apply these algorithms on the dataset to
 predict the disease. Then we will compare the result of these algorithms according to
 classification metrics so that best out of these can be found out. The Pima indian
 dataset has 8 features and one output column which is discrete in nature (0/1).
+
+For Naive Bayes Model, the accuracy is 79.22%, Decision Tree is 72.07%, Random
+Forest is 82.46%, XgBoost is 75.97%, SVM is 75.97%, Logistic Regression is 82.46%,
+KNN is 81.16% and Neural Network is 75.32%
